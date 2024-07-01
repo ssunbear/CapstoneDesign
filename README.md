@@ -53,8 +53,8 @@
 ## 4. 테스트 성능
 - 객체 탐지: mAP:50 0.7의 기준값 대비 0.834의 측정값 도출 
 - 과실비율 판정: F1-Score의 0.7의 기준값 대비 0.759의 측정값 도출
-<img width="400" alt="mAP 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7193e985-4326-440e-b781-6b28d06aa266">
-<img width="400" alt="F1-Score 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/f6d30945-44aa-4e13-88a2-d5ab215137ef">
+<img width="450" alt="mAP 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7193e985-4326-440e-b781-6b28d06aa266">
+<img width="450" alt="F1-Score 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/f6d30945-44aa-4e13-88a2-d5ab215137ef">
 
 ## 5. 시현 영상
-[![Video Label](http://img.youtube.com/vi/EveaT5FVU/0.jpg)](https://youtu.be/EveaT5FVU)
+[![Video Label](http://img.youtube.com/vi/1-EveaT5FVU/0.jpg)](https://youtu.be/1-EveaT5FVU)
