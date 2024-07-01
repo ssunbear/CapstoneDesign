@@ -47,8 +47,8 @@
 - 과실비율에 대한 관련 법규 및 기준 판례를 확인 가능한 과실비율분쟁해결 '과실비율정보포털'을 제공하여 사용자가 더 많은 정보를 획득하게 도움을 줌
 
 
-  <img width="400" alt="추가정보입력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7079557a-f22a-4251-9ca0-f8b016484d67"> 
-  <img width="400" alt="결과출력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/e1a46a59-55b8-45e4-bfde-bdeec181ef98">
+<img width="400" alt="추가정보입력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7079557a-f22a-4251-9ca0-f8b016484d67"> 
+<img width="400" alt="결과출력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/e1a46a59-55b8-45e4-bfde-bdeec181ef98">
 
 ## 3. 세부구성기술
 
@@ -65,8 +65,8 @@
 - 객체 탐지: mAP:50 0.7의 기준값 대비 0.834의 측정값 도출 
 - 과실비율 판정: F1-Score의 0.7의 기준값 대비 0.759의 측정값 도출
 
-  <img width="400" alt="mAP 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7193e985-4326-440e-b781-6b28d06aa266">
-  <img width="400" alt="F1-Score 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/f6d30945-44aa-4e13-88a2-d5ab215137ef">
+<img width="400" alt="mAP 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7193e985-4326-440e-b781-6b28d06aa266">
+<img width="400" alt="F1-Score 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/f6d30945-44aa-4e13-88a2-d5ab215137ef">
 
 
 ## 5. 시연 영상
