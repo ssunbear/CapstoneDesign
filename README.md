@@ -4,7 +4,7 @@
 ## 1. 프로젝트 개요
 ### 프로젝트 주제 및 설명
 
-<p align="center"><img width="250" alt="AI 몇대몇 900X600" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce8ca1b0-5187-4747-bff7-be83bf4190d1"></p>
+<img width="250" alt="AI 몇대몇 900X600" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce8ca1b0-5187-4747-bff7-be83bf4190d1">
 
 'AI 몇대몇' : 블랙박스 영상을 업로드 후 딥러닝 기반의 모델(DetectoRS, VTN)을 활용하여 차대차 교통사고의 유형을 분류, 과실비율을 판단, 사고 상황 및 기준판례와 관련 법규를 제공하는 서비스
 
@@ -32,8 +32,8 @@
 
 ### 프로젝트 기능
 <p align="center">
-<img width="420" alt="메인화면" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/6510e168-a702-4d87-aa98-4dcaa166ef0d">
-<img width="420" alt="사용방법" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce1e7e0e-83db-464b-9f33-d3720007f9b6"></p>
+<img width="450" alt="메인화면" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/6510e168-a702-4d87-aa98-4dcaa166ef0d">
+<img width="450" alt="사용방법" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce1e7e0e-83db-464b-9f33-d3720007f9b6"></p>
 
 1. 사고 영상 입력
 - 사고 상황 전후 각 5초의 영상이 포함된 블랙박스 영상을 업로드
@@ -46,9 +46,9 @@
 - 분석한 사고차량 정보, 사고상황 애니메이션, 판단한 과실비율을 사고해설과 함께 사용자에게 제공
 - 과실비율에 대한 관련 법규 및 기준 판례를 확인 가능한 과실비율분쟁해결 '과실비율정보포털'을 제공하여 사용자가 더 많은 정보를 획득하게 도움을 줌
 
-<p align="center">
-  <img width="420" alt="추가정보입력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7079557a-f22a-4251-9ca0-f8b016484d67"> 
-  <img width="420" alt="결과출력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/e1a46a59-55b8-45e4-bfde-bdeec181ef98"></p>
+
+  <img width="450" alt="추가정보입력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7079557a-f22a-4251-9ca0-f8b016484d67"> 
+  <img width="450" alt="결과출력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/e1a46a59-55b8-45e4-bfde-bdeec181ef98">
 
 ## 3. 세부구성기술
 
@@ -64,9 +64,9 @@
 ## 4. 테스트 성능
 - 객체 탐지: mAP:50 0.7의 기준값 대비 0.834의 측정값 도출 
 - 과실비율 판정: F1-Score의 0.7의 기준값 대비 0.759의 측정값 도출
-<p align="center">
-  <img width="420" alt="mAP 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7193e985-4326-440e-b781-6b28d06aa266">
-  <img width="420" alt="F1-Score 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/f6d30945-44aa-4e13-88a2-d5ab215137ef"></p>
+
+  <img width="450" alt="mAP 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7193e985-4326-440e-b781-6b28d06aa266">
+  <img width="450" alt="F1-Score 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/f6d30945-44aa-4e13-88a2-d5ab215137ef">
 
 
 ## 5. 시연 영상
