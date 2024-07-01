@@ -70,4 +70,4 @@
 
 
 ## 5. 시연 영상
-<p align="center">[![Video Label](http://img.youtube.com/vi/1-EveaT5FVU/0.jpg)](https://youtu.be/1-EveaT5FVU)</p>
+[![Video Label](http://img.youtube.com/vi/1-EveaT5FVU/0.jpg)](https://youtu.be/1-EveaT5FVU)
