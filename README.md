@@ -32,8 +32,8 @@
 
 ### 프로젝트 기능
 <p align="center">
-<img width="440" alt="메인화면" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/6510e168-a702-4d87-aa98-4dcaa166ef0d">
-<img width="440" alt="사용방법" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce1e7e0e-83db-464b-9f33-d3720007f9b6"></p>
+<img width="420" alt="메인화면" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/6510e168-a702-4d87-aa98-4dcaa166ef0d">
+<img width="420" alt="사용방법" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce1e7e0e-83db-464b-9f33-d3720007f9b6"></p>
 
 1. 사고 영상 입력
 - 사고 상황 전후 각 5초의 영상이 포함된 블랙박스 영상을 업로드
@@ -47,8 +47,8 @@
 - 과실비율에 대한 관련 법규 및 기준 판례를 확인 가능한 과실비율분쟁해결 '과실비율정보포털'을 제공하여 사용자가 더 많은 정보를 획득하게 도움을 줌
 
 <p align="center">
-  <img width="440" alt="추가정보입력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7079557a-f22a-4251-9ca0-f8b016484d67"> 
-  <img width="440" alt="결과출력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/e1a46a59-55b8-45e4-bfde-bdeec181ef98"></p>
+  <img width="420" alt="추가정보입력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7079557a-f22a-4251-9ca0-f8b016484d67"> 
+  <img width="420" alt="결과출력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/e1a46a59-55b8-45e4-bfde-bdeec181ef98"></p>
 
 ## 3. 세부구성기술
 
@@ -65,8 +65,8 @@
 - 객체 탐지: mAP:50 0.7의 기준값 대비 0.834의 측정값 도출 
 - 과실비율 판정: F1-Score의 0.7의 기준값 대비 0.759의 측정값 도출
 <p align="center">
-  <img width="440" alt="mAP 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7193e985-4326-440e-b781-6b28d06aa266">
-  <img width="440" alt="F1-Score 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/f6d30945-44aa-4e13-88a2-d5ab215137ef"></p>
+  <img width="420" alt="mAP 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7193e985-4326-440e-b781-6b28d06aa266">
+  <img width="420" alt="F1-Score 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/f6d30945-44aa-4e13-88a2-d5ab215137ef"></p>
 
 
 ## 5. 시연 영상
