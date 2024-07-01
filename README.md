@@ -4,7 +4,7 @@
 ## 1. 프로젝트 개요
 ### 프로젝트 주제 및 설명
 
-<img width="250" alt="AI 몇대몇 900X600" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce8ca1b0-5187-4747-bff7-be83bf4190d1">
+<p align="center"><img width="250" alt="AI 몇대몇 900X600" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce8ca1b0-5187-4747-bff7-be83bf4190d1"></p>
 
 'AI 몇대몇' : 블랙박스 영상을 업로드 후 딥러닝 기반의 모델(DetectoRS, VTN)을 활용하여 차대차 교통사고의 유형을 분류, 과실비율을 판단, 사고 상황 및 기준판례와 관련 법규를 제공하는 서비스
 
@@ -31,9 +31,9 @@
 - AI를 활용해 교통사고 과실비율을 빠르고 객관적으로 판단하고 과실비율 판단 프로세스에 소요되는 시간과 인력을 획기적으로 줄이는 것이 목표
 
 ### 프로젝트 기능
-<p align="center">
+
 <img width="450" alt="메인화면" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/6510e168-a702-4d87-aa98-4dcaa166ef0d">
-<img width="450" alt="사용방법" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce1e7e0e-83db-464b-9f33-d3720007f9b6"></p>
+<img width="450" alt="사용방법" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/ce1e7e0e-83db-464b-9f33-d3720007f9b6">
 
 1. 사고 영상 입력
 - 사고 상황 전후 각 5초의 영상이 포함된 블랙박스 영상을 업로드
