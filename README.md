@@ -71,3 +71,6 @@
 
 ## 5. 시연 영상
 [![Video Label](http://img.youtube.com/vi/1-EveaT5FVU/0.jpg)](https://youtu.be/1-EveaT5FVU)
+
+## 6. 프로젝트 회고록
+작성중..
