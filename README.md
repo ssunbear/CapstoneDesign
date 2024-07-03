@@ -81,6 +81,7 @@
 
 ## 6. 시연 영상
 - 이미지를 클릭하시면 유튜브로 영상이 재생됩니다.
+  
 [![Video Label](http://img.youtube.com/vi/1-EveaT5FVU/0.jpg)](https://youtu.be/1-EveaT5FVU)
 
 ## 7. 프로젝트 회고록
