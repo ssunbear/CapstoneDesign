@@ -1,5 +1,5 @@
 # 교통사고 과실비율 AI 판단 서비스: AI 몇대몇
-2024 1학기 세종대학교 캡스톤디자인 
+2024 1학기 세종대학교 컴퓨터공학과 캡스톤디자인 
 
 ## 1. 프로젝트 개요
 ### 프로젝트 주제 및 설명
@@ -52,13 +52,13 @@
 
 ## 3. 시스템 다이어그램
 ### 유스케이스 다이어그램
-<img width="850" alt="스크린샷 2024-07-04 오전 2 37 28" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/5ef5e163-cac0-4a7e-afcb-614eb303cee5">
+<img width="500" alt="스크린샷 2024-07-04 오전 2 37 28" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/5ef5e163-cac0-4a7e-afcb-614eb303cee5">
 
 ### 클래스 다이어그램
-<img width="850" alt="스크린샷 2024-07-04 오전 2 37 47" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/a4289847-742f-4580-bb5e-eba10c902a99">
+<img width="500" alt="스크린샷 2024-07-04 오전 2 37 47" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/a4289847-742f-4580-bb5e-eba10c902a99">
 
 ### 시퀀스 다이어그램
-<img width="850" alt="스크린샷 2024-07-04 오전 2 38 10" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/b2252bfd-da50-48b5-bad5-c57e1824ad37">
+<img width="500" alt="스크린샷 2024-07-04 오전 2 38 10" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/b2252bfd-da50-48b5-bad5-c57e1824ad37">
 
 ## 4. 세부구성기술
 
@@ -80,11 +80,12 @@
 
 
 ## 6. 시연 영상
+- 이미지를 클릭하시면 유튜브로 영상이 재생됩니다.
 [![Video Label](http://img.youtube.com/vi/1-EveaT5FVU/0.jpg)](https://youtu.be/1-EveaT5FVU)
 
 ## 7. 프로젝트 회고록
 
-### 도전과제 및 해결책
+### 문제점 및 해결방안
 작성 예정입니다.
 
 ### 후기 및 배운점
