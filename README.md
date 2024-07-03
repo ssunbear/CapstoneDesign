@@ -50,7 +50,17 @@
 <img width="400" alt="추가정보입력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/7079557a-f22a-4251-9ca0-f8b016484d67"> 
 <img width="400" alt="결과출력" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/e1a46a59-55b8-45e4-bfde-bdeec181ef98">
 
-## 3. 세부구성기술
+## 3. 시스템 다이어그램
+### 유스케이스 다이어그램
+<img width="850" alt="스크린샷 2024-07-04 오전 2 37 28" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/5ef5e163-cac0-4a7e-afcb-614eb303cee5">
+
+### 클래스 다이어그램
+<img width="850" alt="스크린샷 2024-07-04 오전 2 37 47" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/a4289847-742f-4580-bb5e-eba10c902a99">
+
+### 시퀀스 다이어그램
+<img width="850" alt="스크린샷 2024-07-04 오전 2 38 10" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/b2252bfd-da50-48b5-bad5-c57e1824ad37">
+
+## 4. 세부구성기술
 
 ### 객체 탐지
 - 'DetectoRS' 알고리즘을 활용하여 9종(차량, 보행자, 이륜차, 자전거, 표지판, 신호등(적색), 신호등(녹색), 신호등(기타), 횡단보도)의 인스턴스 검출 
@@ -61,7 +71,7 @@
 - 1, 3인칭에 대하여 각각 4가지 모델을 사용하여 4가지 상황(사고장소 분류, 사고장소 특징 분류, 사고 객체 A(상대방) 정보 분류, 사고 객체 B(당사자) 정보 분류)을 판단
 - 사고 장소는 15종, 사고 장소 특징은 61종, 사고 객체 A정보는 180종, 사고 객체 B정보 174종으로 분류되며 각각의 모델에서 위 4개의 인자를 조합하여 산출되는 133종의 차대차 교통사고를 분류하고 기준 기본 과실비율을 도출 ([별첨] 모델 도출 클래스 번호 정보.pdf 참조)
 
-## 4. 테스트 성능
+## 5. 테스트 성능
 - 객체 탐지: mAP:50 0.7의 기준값 대비 0.834의 측정값 도출 
 - 과실비율 판정: F1-Score의 0.7의 기준값 대비 0.759의 측정값 도출
 
@@ -69,8 +79,13 @@
 <img width="400" alt="F1-Score 결과" src="https://github.com/ssunbear/CapstoneDesign/assets/117508164/f6d30945-44aa-4e13-88a2-d5ab215137ef">
 
 
-## 5. 시연 영상
+## 6. 시연 영상
 [![Video Label](http://img.youtube.com/vi/1-EveaT5FVU/0.jpg)](https://youtu.be/1-EveaT5FVU)
 
-## 6. 프로젝트 회고록
-작성중..
+## 7. 프로젝트 회고록
+
+### 도전과제 및 해결책
+작성 예정입니다.
+
+### 후기 및 배운점
+작성 예정입니다.
