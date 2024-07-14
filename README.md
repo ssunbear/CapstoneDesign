@@ -84,10 +84,3 @@
   
 [![Video Label](http://img.youtube.com/vi/1-EveaT5FVU/0.jpg)](https://youtu.be/1-EveaT5FVU)
 
-## 7. 프로젝트 회고록
-
-### 문제점 및 해결방안
-작성 예정입니다.
-
-### 후기 및 배운점
-작성 예정입니다.
